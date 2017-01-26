@@ -18,7 +18,7 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
     content: "Current version: v0.4a";
 }
 .titlebar{
-    background:#212121;
+    background:rgba(4, 167, 231, 0.51);
     height:35px!important;
 }
 /*
@@ -219,11 +219,11 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
 .chat form {
     border: none!important;
     margin: 0;
-    box-shadow: rgba(25, 67, 0, .34) 0 0 20px
+    box-shadow: rgba(4, 167, 231, 0.47) 0 0 20px
 }
 
 .guild-header {
-    background: #212121;
+    background: #04a7e7;
 }
 
 .channel-textarea-inner textarea {
@@ -4714,6 +4714,7 @@ div.platform-osx .theme-light+span .user-settings-modal .tab-bar.SIDE .tab-bar-i
 .theme-light .btn.btn-settings:after {
     visibility: hidden
 }
+.app { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
 
 .app.flex-vertical.theme-light * {
     visibility: hidden
