@@ -15,7 +15,7 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
 
 .form.settings.user-settings-modal .settings-actions:before,
 .lastversion:after {
-    content: "Current version: v0.4a";
+    content: "Current version: v0.5a";
 }
 .titlebar{
     background:rgba(4, 167, 231, 0.51);
@@ -25,7 +25,7 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
       TITLE BAR
 */
 .titlebar:after{
-    content:"Frosty Theme v0.4a";
+    content:"Frosty Theme v0.5a";
     position:absolute;
     top:9px;
     left:40px;
@@ -67,11 +67,11 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
     display:none
 }
 #bd-themes-pane .bda-slist:before {
-    content: "❄️️Current version: v0.4a❄️️\A\A We've been working on this for weeks now \AThanks a lot for all the help, feedback and love <3\A Remember To Stay Frosty ⛄\A\A\A Thanks to:\A @leiden#6665, @tinyjeff.#2138\A and more people for the feedback <3\A\A";
+    content: "❄️️Current version: v0.5a❄️️\A\A We've been working on this for weeks now \AThanks a lot for all the help, feedback and love <3\A Remember To Stay Frosty ⛄\A\A\A Thanks to:\A @leiden#6665, @tinyjeff.#2138\A and more people for the feedback <3\A\A";
 }
 
 .app:after {
-    content: "❄️️Current version: v0.4a❄️️ \A\A By: KrizFrost\A\A>> Go to Settings/BetterDiscord/Themes For Updates <<";
+    content: "❄️️Current version: v0.5a❄️️ \A\A By: KrizFrost\A\A>> Go to Settings/BetterDiscord/Themes For Updates <<";
 }
 
 
